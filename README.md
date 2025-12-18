@@ -1,16 +1,14 @@
-## Hi there 👋
+# Howdy! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
 
-<!--
-**TheRealDillyTech/TheRealDillyTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dilly, a software engineer based in the USA.
 
-Here are some ideas to get you started:
+I love learning new skills especially when it comes to coding and engineering. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is python but currently learning more skills like web development.
+
+Currently in my third semester working towards my associate degree in software engineering.
+
+## Fun Facts:
+- I started coding because I wanted to make Roblox games when I was younger.
+- Enjoy monster energy drinks and coffee.
+- Hobbies: walking, gardening, and baseball.
