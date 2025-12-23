@@ -11,4 +11,5 @@ Currently in my third semester working towards my associate degree in software e
 ## Fun Facts:
 - I started coding because I wanted to make Roblox games when I was younger.
 - Enjoy monster energy drinks and coffee.
+- I have both dyslexia and dyscalculia.
 - Hobbies: walking, gardening, and baseball.
